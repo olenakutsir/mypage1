@@ -1,0 +1,71 @@
+* {
+  width: 1000px;
+  margin: 0 auto;
+  font-family: georgia;
+}
+body {background-color: #b3c2bf 
+}
+#container {
+  position: relative;
+  width: 1000px;
+}
+header{
+  height: 200px;
+  background-color: #252839;
+  padding-top: 0px;
+  text-align: none;
+  letter-spacing: 5px;
+  color: #e9ece5;
+}
+header img {
+  position: absolute;
+  width: 150px;
+  padding-left: 5%;
+  padding-top: 20px;
+  z-index: 0
+}
+#olenakutsir {
+    position: absolute; 
+    padding-bottom: 1%;
+    font-size: 15px;
+    font-weight: 200;
+    width: 75%;
+    top: 40px;
+    right: 0;
+    height: 10px;
+    color: #e9ece5;
+}
+#navi {
+  position: absolute; 
+    padding-bottom: 1%;
+    font-size: 15px;
+    font-weight: 200;
+    width: 75%;
+    top: 80px;
+    right: 0;
+    height: 10px;
+    color: #e9ece5;
+}
+#welcome {
+  position: relative;
+  height: 431px;
+  width: 1000px;
+}
+#pavement {
+  position: absolute;
+  z-index: -1
+}
+#pavement img {
+   opacity: 0.6;
+}
+#hallo {
+  position: absolute;
+  font-size: 50px;
+  font-weight: 200;
+  width: 75%;
+  top: 80px;
+  right: 0;
+  height: 10px;
+  color: #5e0231;
+    
+}
