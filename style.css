@@ -93,5 +93,6 @@ header img {
 
 
 #contact {
+  position: relative;
   width: 45%;
 }
