@@ -3,7 +3,7 @@
   margin: 0 auto;
   font-family: georgia;
 }
-body {background-color: #a8b6bf;
+body {background-color: #b3c2bf;
 }
 #container {
   position: relative;
@@ -62,13 +62,14 @@ header img {
   position: absolute;
   font-size: 50px;
   font-weight: 200;
-  width: 75%;
+  width: 60%;
   top: 80px;
   right: 0;
-  height: 10px;
+  height: 30%;
   color: #963019;
-  border-radius: 50px;
+  border-radius: 30px;
   background: #b3c2bf;
+  padding: 20px;
 }
 #about_me {
   position: relative;
