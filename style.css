@@ -86,7 +86,7 @@ header img {
 }
 #rain {
   position: absolute;
-  top: 20%;
+  top: 23%;
   z-index: -1;
   height: 500px;
 }
