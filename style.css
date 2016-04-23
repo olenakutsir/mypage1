@@ -85,3 +85,7 @@ header img {
   text-align: center;
   color: #963019;
 }
+#rain {
+  position: absolute;
+  z-index: 0;
+}
