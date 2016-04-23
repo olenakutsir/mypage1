@@ -50,7 +50,6 @@ header img {
   position: relative;
   height: 519px;
   width: 1000px;
-  border-radius: 50px;
 }
 #pavement {
   position: absolute;
@@ -68,6 +67,8 @@ header img {
   right: 0;
   height: 10px;
   color: #963019;
+  border-radius: 50px;
+  background: #b3c2bf;
 }
 #about_me {
   position: relative;
