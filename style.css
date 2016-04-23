@@ -1,7 +1,7 @@
 * {
   width: 1000px;
   margin: 0 auto;
-  font-family: georgia;
+  font-family: 'Lato', sans-serif;
 }
 body {background-color: #b3c2bf;
 }
@@ -81,13 +81,13 @@ header img {
 #me {
   position: absolute;
   font-size: 25px;
-  font-weight: 100;
   text-align: center;
   color: #963019;
   font-family: 'Lato', sans-serif;
 }
 #rain {
   position: absolute;
-  top: 30%;
+  top: 20%;
   z-index: -1;
+  height: 500px;
 }
