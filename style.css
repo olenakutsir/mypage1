@@ -1,7 +1,7 @@
 * {
   width: 1000px;
   margin: 0 auto;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Droid Serif';
 }
 body {background-color: #b3c2bf;
 }
@@ -83,7 +83,6 @@ header img {
   font-size: 25px;
   text-align: center;
   color: #963019;
-  font-family: 'Lato', sans-serif;
 }
 #rain {
   position: absolute;
