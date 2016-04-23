@@ -61,7 +61,7 @@ header img {
 #hallo {
   position: absolute;
   font-size: 40px;
-  font-weight: 150;
+  font-weight: 100;
   width: 45%;
   top: 80px;
   right: 28%;
@@ -77,4 +77,11 @@ header img {
   position: relative;
   height: 720px;
   width: 1000px;
+}
+#me {
+  position: absolute;
+  font-size: 30px;
+  font-weight: 100;
+  text-align: center;
+  color: #963019;
 }
