@@ -60,16 +60,18 @@ header img {
 }
 #hallo {
   position: absolute;
-  font-size: 50px;
-  font-weight: 200;
-  width: 55%;
+  font-size: 40px;
+  font-weight: 150;
+  width: 45%;
   top: 80px;
-  right: 20%;
-  height: 30%;
+  right: 17%;
+  height: 25%;
   color: #963019;
   border-radius: 30px;
-  background: #b3c2bf;
+  background: radial-gradient(50% 50%, 70% 70%, #b3c2bf #e9ece5);
+  box-shadow: 10px 10px 5px #c9c9c9;
   padding: 20px;
+  
 }
 #about_me {
   position: relative;
