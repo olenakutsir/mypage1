@@ -1,7 +1,7 @@
 * {
   width: 1000px;
   margin: 0 auto;
-  font-family: arial black;
+  font-family: georgia;
 }
 body {background-color: #a8b6bf;
 }
@@ -50,13 +50,14 @@ header img {
   position: relative;
   height: 519px;
   width: 1000px;
+  border-radius: 50px;
 }
 #pavement {
   position: absolute;
   z-index: -1
 }
 #pavement img {
-   opacity: 0.5;
+   opacity: 0.7;
 }
 #hallo {
   position: absolute;
