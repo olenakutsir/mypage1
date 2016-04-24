@@ -50,6 +50,7 @@ header img {
   position: relative;
   height: 519px;
   width: 1000px;
+  background: #e9ece5;
 }
 #pavement {
   position: absolute;
@@ -77,6 +78,7 @@ header img {
   position: relative;
   height: 720px;
   width: 1000px;
+  background: #e9ece5;
 }
 #me {
   position: absolute;
@@ -86,7 +88,7 @@ header img {
 }
 #rain {
   position: absolute;
-  top: 23%;
+  top: 30%;
   z-index: -1;
   height: 500px;
   opacity: 0.9;
