@@ -79,8 +79,6 @@ header img {
   position: relative;
   height: 720px;
   width: 1000px;
-  margin: 0;
-  
 }
 #me {
   position: absolute;
@@ -88,6 +86,7 @@ header img {
   text-align: center;
   color: #963019;
   background-color: #e9ece5;
+  margin: 0;
 }
 #rain {
   position: absolute;
@@ -95,6 +94,7 @@ header img {
   z-index: -1;
   height: 500px;
   opacity: 0.9;
+  margin: 0;
 }
 
 table th {
