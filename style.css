@@ -103,14 +103,14 @@ table th {
   color: #963019;
 }
 tr td:first-child {
-  font-size: 25px;
+  font-size: 20px;
   text-align: right;
   color: #963019;
-  padding-right: 3%; 
+  padding-right: 5%; 
 }
 tr td:last-child {
-  font-size: 25px;
+  font-size: 20px;
   text-align: left;
   color: #963019;
-  padding-left: : 3%;   
+  padding-left: : 5%;   
 }
