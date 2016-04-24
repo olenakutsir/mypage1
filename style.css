@@ -24,6 +24,9 @@ header img {
   padding-top: 20px;
   z-index: 0
 }
+article {
+  background-color: #e9ece5;
+}
 #olenakutsir {
     position: absolute; 
     padding-bottom: 1%;
@@ -50,7 +53,7 @@ header img {
   position: relative;
   height: 519px;
   width: 1000px;
-  background-color: #e9ece5;
+  
 }
 #pavement {
   position: absolute;
