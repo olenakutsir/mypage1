@@ -79,6 +79,7 @@ header img {
   position: relative;
   height: 720px;
   width: 1000px;
+  margin: 0 auto;
   
 }
 #me {
@@ -101,6 +102,11 @@ table th {
   color: #963019;
 }
 tr td:first-child {
+  font-size: 25px;
+  text-align: right;
+  color: #963019;
+}
+tr td:last-child {
   font-size: 25px;
   text-align: left;
   color: #963019;
