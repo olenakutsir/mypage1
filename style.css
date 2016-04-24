@@ -89,5 +89,10 @@ header img {
   top: 23%;
   z-index: -1;
   height: 500px;
+  opacity: 0.9;
 }
-
+table th {
+  font-size: 25px;
+  text-align: center;
+  color: #963019;
+}
