@@ -24,9 +24,7 @@ header img {
   padding-top: 20px;
   z-index: 0
 }
-article {
-  background-color: #e9ece5;
-}
+
 #olenakutsir {
     position: absolute; 
     padding-bottom: 1%;
@@ -88,6 +86,7 @@ article {
   font-size: 25px;
   text-align: center;
   color: #963019;
+  background-color: #e9ece5;
 }
 #rain {
   position: absolute;
@@ -99,5 +98,10 @@ article {
 table th {
   font-size: 25px;
   text-align: center;
+  color: #963019;
+}
+tr td:first-child {
+  font-size: 25px;
+  text-align: left;
   color: #963019;
 }
