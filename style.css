@@ -79,7 +79,7 @@ header img {
   position: relative;
   height: 720px;
   width: 1000px;
-  margin: 0 auto;
+  margin: 0;
   
 }
 #me {
@@ -96,6 +96,9 @@ header img {
   height: 500px;
   opacity: 0.9;
 }
+table {
+  border-spacing: 15px; 
+}
 table th {
   font-size: 25px;
   text-align: center;
@@ -105,13 +108,9 @@ tr td:first-child {
   font-size: 25px;
   text-align: right;
   color: #963019;
-  border-spacing: 15px; 
-
 }
 tr td:last-child {
   font-size: 25px;
   text-align: left;
   color: #963019;
-  border-spacing: 15px; 
-
 }
