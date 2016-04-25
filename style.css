@@ -124,7 +124,7 @@ tr td:last-child {
   font-size: 20px;
   text-align: left;
   color:#252839;
-  padding-left: 10%;   
+     
 }
 #skills {
   height:200px;
@@ -132,6 +132,7 @@ tr td:last-child {
   color: #252839;
 }
 #form {
+  width: 400px;
   float: left;
   padding-right: 30%;
 }
