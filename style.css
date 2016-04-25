@@ -105,25 +105,25 @@ table {
 table th:first-child {
   font-size: 25px;
   text-align: right;
-  color: #963019;
+  color: #252839;
   padding-right: 5%;
 }
 table th:last-child {
   font-size: 25px;
   text-align: left;
-  color: #963019;
+  color: #252839;
   padding-right: 5%;
 }
 tr td:first-child {
   font-size: 20px;
   text-align: right;
-  color: #963019;
+  color: #252839;
   padding-right: 5%; 
 }
 tr td:last-child {
   font-size: 20px;
   text-align: left;
-  color: #963019;
+  color:#252839;
   padding-left: 5%;   
 }
 #skills {
@@ -131,5 +131,7 @@ tr td:last-child {
   background-color: #e9ece5;
   color: #252839;
 }
-
+#form {
+  float: left;
+}
 
