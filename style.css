@@ -79,18 +79,14 @@ header img {
   position: relative;
   height: 720px;
   width: 1000px;
-  -webkit-margin-before: 0;
-  -webkit-margin-after: 0;
 }
 #me {
   position: absolute;
   font-size: 25px;
   text-align: center;
-  color: #963019;
+  color: #252839;
   background-color: #e9ece5;
   margin: 0;
-  -webkit-margin-before: 0;
-  -webkit-margin-after: 0;
 }
 #rain {
   position: absolute;
@@ -103,10 +99,20 @@ header img {
 #education_experience {
   background-color: #e9ece5;
 }
-table th {
+table {
+  color: #252839;
+}
+table th:first-child {
   font-size: 25px;
-  text-align: center;
+  text-align: right;
   color: #963019;
+  padding-right: 5%;
+}
+table th:last-child {
+  font-size: 25px;
+  text-align: left;
+  color: #963019;
+  padding-right: 5%;
 }
 tr td:first-child {
   font-size: 20px;
@@ -121,32 +127,9 @@ tr td:last-child {
   padding-left: 5%;   
 }
 #skills {
-  height:250px;
+  height:200px;
   background-color: #e9ece5;
+  color: #252839;
 }
 
 
-@keyframes width {
-    0%, 100% {
-        width: 160px;
-    }
-    50% {
-        width: 400px;
-    }
-}
-
-#skil {
-    width:160px;
-    height:20px;
-    padding-left: 20px;
-    margin: 10px 0;
-    color:white;
-    font: 14px Georgia;
-    vertical-align: middle;
-    background:#05f;
-    animation: width 3s infinite;
-}
-
-#html {animation-timing-function: linear;}
-#css {animation-timing-function: ease;}
-#java {animation-timing-function: ease-in;}
