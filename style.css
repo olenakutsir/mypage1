@@ -101,6 +101,8 @@ header img {
 }
 table {
   color: #252839;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 table th:first-child {
   font-size: 25px;
