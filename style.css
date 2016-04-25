@@ -79,6 +79,8 @@ header img {
   position: relative;
   height: 720px;
   width: 1000px;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
 }
 #me {
   position: absolute;
@@ -87,6 +89,8 @@ header img {
   color: #963019;
   background-color: #e9ece5;
   margin: 0;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
 }
 #rain {
   position: absolute;
@@ -96,7 +100,9 @@ header img {
   opacity: 0.9;
   margin: 0;
 }
-
+#education_experience {
+  background-color: #e9ece5;
+}
 table th {
   font-size: 25px;
   text-align: center;
