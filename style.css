@@ -140,7 +140,7 @@ tr td:last-child {
     font: 14px Georgia;
     vertical-align: middle;
     background:#05f;
-    animation: width 5s infinite;
+    animation: width 3s infinite;
 }
 
 #html {animation-timing-function: linear;}
