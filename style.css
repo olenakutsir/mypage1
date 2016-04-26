@@ -172,3 +172,6 @@ textarea {
   width:300px;
   
 }
+#message input {
+  width: 100px;
+}
