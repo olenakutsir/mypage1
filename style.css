@@ -170,5 +170,5 @@ tr td:last-child {
 }
 #form textarea {
   width:300px;
-  float: right;
+  padding-left: 300px;
 }
