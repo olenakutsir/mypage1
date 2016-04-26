@@ -171,7 +171,7 @@ tr td:last-child {
 #form {
   position: absolute;
   text-align: center;
-  padding-top: 5%;
+  padding-top: 10%;
 }
 #form input {
   width: 250px;
