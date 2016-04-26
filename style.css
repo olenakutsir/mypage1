@@ -168,7 +168,7 @@ tr td:last-child {
   position: absolute;
   text-align: center;
 }
-form {
+#form {
   position: absolute;
   text-align: center;
 }
