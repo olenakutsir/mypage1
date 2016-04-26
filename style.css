@@ -164,6 +164,9 @@ tr td:last-child {
 #css {animation-timing-function: ease-out;}
 #java {animation-timing-function: ease-in-out;}
 
+#contact {
+  padding-top: 30px;
+}
 #fb{
   position: absolute;
   text-align: center;
