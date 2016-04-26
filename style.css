@@ -166,12 +166,13 @@ tr td:last-child {
 
 
 #form input {
-  width:300px;
+  width: 270px;
 }
 textarea {
-  width:300px;
+  width: 300px;
   
 }
 #message input {
   width: 100px;
+  padding-top: 10px;
 }
