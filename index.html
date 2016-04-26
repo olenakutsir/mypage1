@@ -91,23 +91,25 @@
             <h2>I'd love to hear from you on</h2>
             <a href="https://www.facebook.com/olena.kutsir">Facebook</a>
             <p><b>or send me a message</b></p>
-          <div id="form">  
-            <form method="GET" action="/login">
-            
-               <label for="name">Name:</label>
-               <input id="name" type="text" required>
-            <br>
-               <label for="email">Email:</label>
-               <input type="email" id="email" required>
-            <br>
-            <textarea name="message" rows="10" cols="30">
-            Message
-            </textarea>
-            <input type="submit">
-            </form>
-           </div>    
+               <div id="form">  
+                  <form method="GET" action="/login">
+                     <div id="name">
+                        <label for="name">Name:</label>
+                        <input id="name" type="text" required>
+                      <br>
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" required>
+                     </div>
+                      <br>
+                     <div id="message">
+                         <textarea name="message" rows="10" cols="30">
+                          Message
+                         </textarea>
+                      <input type="submit">
+                      </div>
+                  </form>
+               </div>    
         </article>   
-        
       </div>   
     </body>
 </html>
