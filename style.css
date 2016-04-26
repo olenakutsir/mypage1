@@ -165,9 +165,8 @@ tr td:last-child {
 #java {animation-timing-function: ease-in-out;}
 
 
-#name {
+#form input {
   width:300px;
-  float: left;
 }
 textarea {
   width:300px;
