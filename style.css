@@ -164,7 +164,9 @@ tr td:last-child {
 #css {animation-timing-function: ease-out;}
 #java {animation-timing-function: ease-in-out;}
 
-
+form {
+  margin: 0 auto;
+}
 #form input {
   width: 250px;
   padding-left: 1%;
