@@ -131,13 +131,14 @@ tr td:last-child {
      
 }
 #skills {
+  width: 980px;
   height: 150px;
   background-color: #e9ece5;
   color: #252839;
   font-size: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
-  
+  padding-left: 20px;
 }
 #form {
   width: 400px;
