@@ -169,7 +169,7 @@ tr td:last-child {
   width:300px;
   float: left;
 }
-#message {
+textarea {
   width:300px;
   
 }
