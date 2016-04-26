@@ -166,7 +166,8 @@ tr td:last-child {
 
 
 #form input {
-  width: 270px;
+  width: 260px;
+  padding-left: 1%;
 }
 textarea {
   width: 300px;
