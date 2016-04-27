@@ -192,10 +192,11 @@ textarea {
 }
 
 footer {
-  top: 600px;
+  top: 400px;
   position: relative;
   height: 100px;
   background-color: #252839;
   text-align: center;
   color: #e9ece5;
+  padding-top: 20px;
 }
