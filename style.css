@@ -9,7 +9,7 @@ body {background-color: #b3c2bf;
   position: relative;
   width: 1000px;
 }
-header{
+header {
   height: 200px;
   background-color: #252839;
   padding-top: 0px;
@@ -188,4 +188,9 @@ textarea {
 #message input {
   width: 100px;
   padding-top: 10px;
+}
+
+footer {
+  height: 100px;
+  background-color: #252839;
 }
