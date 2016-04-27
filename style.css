@@ -178,6 +178,7 @@ tr td:last-child {
   position: absolute;
   text-align: center;
   padding-top: 10%;
+  color: #252839;
 }
 #form input {
   width: 250px;
