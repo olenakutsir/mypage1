@@ -192,7 +192,7 @@ textarea {
 }
 
 footer {
-  position: absolute;
+  position: relative;
   height: 100px;
   background-color: #252839;
 }
