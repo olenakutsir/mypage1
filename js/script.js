@@ -1,7 +1,7 @@
 $(function() {
     $('#btn-send').click(function() {
         $.ajax({
-            url: "https://formspree.io/YOUR-EMAIL-HERE", 
+            url: "https://formspree.io/olena.kutsir@gmail.com", 
             method: "POST",
             data: {message: message.value},
             dataType: "json"
