@@ -3,7 +3,10 @@ $(function() {
         $.ajax({
             url: "https://formspree.io/olena.kutsir@gmail.com", 
             method: "POST",
-            data: {message: message.value},
+            data: {
+                name: name.value,
+                email: email.value,
+                message: message.value},
             dataType: "json"
         })
         .done(function () {
