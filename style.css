@@ -132,7 +132,7 @@ tr td:last-child {
 }
 #skills {
   width: 980px;
-  height: 200px;
+  height: 400px;
   background-color: #e9ece5;
   color: #252839;
   font-size: 20px;
@@ -164,17 +164,6 @@ tr td:last-child {
 #css {animation-timing-function: ease-out;}
 #java {animation-timing-function: ease-in-out;}
 
-.css-anime {
-    width:300px;
-    height:20px;
-    padding-left: 20px;
-    margin: 20px 0;
-    color: #e9ece5;
-    font: 20px ;
-    vertical-align: middle;
-    background:#252839;
-    animation: width 10s reverse;
-}
 #uk {animation-timing-function: ease-in;}
 #en {animation-timing-function: ease-out;}
 #gm {animation-timing-function: ease-in-out;}
