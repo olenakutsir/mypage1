@@ -180,9 +180,8 @@ tr td:last-child {
   padding-top: 10%;
   color: #252839;
 }
-#form input {
+input {
   width: 250px;
-  padding-left: 1%;
     padding: 12px 20px;
     margin: 0px 1% 0 0; 
     display: inline-block;
@@ -193,6 +192,7 @@ tr td:last-child {
     font-family: Verdana, serif;
     font-size: 14px;
 }
+
 
 #btn-send {
   width: 100px;
