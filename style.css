@@ -145,9 +145,7 @@ tr td:last-child {
     0%, 100% {
         width: 160px;
     }
-    50% {
-        width: 400px;
-    }
+    
 }
 .cssanime {
     width:160px;
