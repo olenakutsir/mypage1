@@ -193,8 +193,9 @@ input {
     font-size: 14px;
 }
 #message {
-  width: 400px;
-  height: 200px;
+  float: right;
+  width: 300px;
+  height: 150px;
 }
 
 #btn-send {
