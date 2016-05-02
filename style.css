@@ -143,14 +143,14 @@ tr td:last-child {
 
 @keyframes width {
     0%, 100% {
-        width: 160px;
+        width: 300px;
     }
     0%  {
-        width: 400px;
+        width: 160px;
     }
 }
 .cssanime {
-    width:160px;
+    width:300px;
     height:20px;
     padding-left: 20px;
     margin: 20px 0;
@@ -158,8 +158,11 @@ tr td:last-child {
     font: 20px ;
     vertical-align: middle;
     background:#252839;
-    animation: width 10s ease-in-out;
+    animation: width 5s infinite;
 }
+#html {animation-timing-function: ease-in;}
+#css {animation-timing-function: ease-out;}
+#java {animation-timing-function: ease-in-out;}
 
 #contact {
   position: absolute;
