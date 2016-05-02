@@ -179,6 +179,9 @@ tr td:last-child {
   position: inherit;
   text-align: center;
 }
+.fb {
+  text-align: center;
+}
 #form {
   position: absolute;
   text-align: center;
