@@ -147,6 +147,11 @@ tr td:last-child {
   width: 50%;
 }
 
+#language {
+  position: inherit;
+  float: right;
+}
+
 @keyframes width {
     0%, 100% {
         width: 160px;
