@@ -181,7 +181,9 @@ tr td:last-child {
 }
 .fb {
   text-align: center;
-  
+}
+span {
+  width: 90px;
 }
 #form {
   position: absolute;
