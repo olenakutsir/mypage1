@@ -150,7 +150,6 @@ tr td:last-child {
     }
 }
 .cssanime {
-  float: left;
     width:300px;
     height:20px;
     padding-left: 20px;
@@ -166,8 +165,6 @@ tr td:last-child {
 #java {animation-timing-function: ease-in-out;}
 
 .css-anime {
-  float: right;
-  text-align: right;
     width:300px;
     height:20px;
     padding-left: 20px;
