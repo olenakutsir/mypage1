@@ -165,9 +165,9 @@ tr td:last-child {
 #css {animation-timing-function: ease-out;}
 #java {animation-timing-function: ease-in-out;}
 
-#uk {animation-timing-function: ease-in;}
-#en {animation-timing-function: ease-out;}
-#gm {animation-timing-function: ease-in-out;}
+#uk {animation-timing-function: ease-in-out;}
+#en {animation-timing-function: ease-in;}
+#gm {animation-timing-function: ease-out;}
 
 
 #contact {
