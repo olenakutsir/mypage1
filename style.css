@@ -186,6 +186,7 @@ tr td:last-child {
 }
 #fb-icon img {
   width: 100px;
+  height: auto;
   padding-left: 45%;
   
 }
