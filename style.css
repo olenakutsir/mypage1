@@ -200,7 +200,7 @@ input {
 
 #btn-send {
   width: 100px;
-  padding-top: 10px;
+  top: 5px;
 }
 
 footer {
