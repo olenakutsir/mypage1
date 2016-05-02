@@ -184,11 +184,8 @@ tr td:last-child {
   width: 250px;
   padding-left: 1%;
 }
-textarea {
-  width: 300px;
-  
-}
-#message input {
+
+#message {
   width: 100px;
   padding-top: 10px;
 }
