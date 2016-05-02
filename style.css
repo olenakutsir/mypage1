@@ -190,7 +190,7 @@ tr td:last-child {
 #form {
   position: absolute;
   text-align: center;
-  padding-top: 0;
+  padding-top: 5%;
   color: #252839;
 }
 input {
