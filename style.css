@@ -182,7 +182,7 @@ tr td:last-child {
 .fb {
   text-align: center;
 }
-span {
+#fb-icon {
   width: 90px;
 }
 #form {
