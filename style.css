@@ -158,9 +158,9 @@ tr td:last-child {
     font: 14px ;
     vertical-align: middle;
     background:#252839;
-    animation: width 5s infinite;
+    animation: width 5s;
 }
-#html {animation-timing-function: cubic-bezier;}
+#html {animation-timing-function: ease-in;}
 #css {animation-timing-function: ease-out;}
 #java {animation-timing-function: ease-in-out;}
 
