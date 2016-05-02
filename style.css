@@ -192,7 +192,10 @@ input {
     font-family: Verdana, serif;
     font-size: 14px;
 }
-
+input #message {
+  width: 400px;
+  height: 200px;
+}
 
 #btn-send {
   width: 100px;
