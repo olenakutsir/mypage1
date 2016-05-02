@@ -155,10 +155,10 @@ tr td:last-child {
     padding-left: 20px;
     margin: 20px 0;
     color: #e9ece5;
-    font: 14px ;
+    font: 20px ;
     vertical-align: middle;
     background:#252839;
-    animation: width 5s paused;
+    animation: width 5s both;
 }
 #html {animation-timing-function: ease-in;}
 #css {animation-timing-function: ease-out;}
