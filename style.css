@@ -195,6 +195,7 @@ input {
 #message {
   width: 250px;
   height: 150px;
+  text-align: justify;
 }
 
 #btn-send {
