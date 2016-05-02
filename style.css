@@ -202,3 +202,14 @@ footer {
   color: #e9ece5;
   padding-top: 20px;
 }
+
+
+.arrow_up {
+    margin: 20px auto;
+    width: 1.5em;
+    height: 1.5em;
+    border-right: 0.2em solid black;
+    border-bottom: 0.2em solid black;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
