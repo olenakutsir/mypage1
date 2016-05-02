@@ -142,10 +142,10 @@ tr td:last-child {
 }
 
 @keyframes width {
-    0%, 0% {
+    0%, 100% {
         width: 160px;
     }
-    100% {
+    0% {
         width: 400px;
     }
 }
