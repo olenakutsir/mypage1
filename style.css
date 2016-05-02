@@ -183,6 +183,15 @@ tr td:last-child {
 #form input {
   width: 250px;
   padding-left: 1%;
+    padding: 12px 20px;
+    margin: 0px 1% 0 0; 
+    display: inline-block;
+    background-color: #FCFCFC;
+    border: 1px solid black;
+    border-radius: 1px;
+    box-sizing: border-box;
+    font-family: Verdana, serif;
+    font-size: 14px;
 }
 
 #btn-send {
@@ -211,15 +220,3 @@ footer {
     cursor: pointer;
 }
 
-input {
-    width: 48%;
-    padding: 12px 20px;
-    margin: 0px 1% 0 0; 
-    display: inline-block;
-    background-color: #FCFCFC;
-    border: 1px solid black;
-    border-radius: 1px;
-    box-sizing: border-box;
-    font-family: Verdana, serif;
-    font-size: 14px;
-}
