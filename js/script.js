@@ -17,3 +17,11 @@ $(function() {
         });
     })
 })
+
+
+function scrollToId(whereToScroll) {
+    $('html, body').animate({
+        scrollTop: $(whereToScroll).offset().top
+    }, 800);
+    return false;
+}
