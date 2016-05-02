@@ -21,7 +21,7 @@ $(function() {
 
 function scrollToId(whereToScroll) {
     $('html, body').animate({
-        scrollBottom: $(whereToScroll).offset().bottom
+        scrollTop: $(whereToScroll).offset().top
     }, 800);
-    return false;
+    return true;
 }
