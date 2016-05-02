@@ -193,8 +193,7 @@ input {
     font-size: 14px;
 }
 #message {
-  float: right;
-  width: 300px;
+  width: 250px;
   height: 150px;
 }
 
