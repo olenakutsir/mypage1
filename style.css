@@ -141,6 +141,12 @@ tr td:last-child {
   padding-left: 20px;
 }
 
+#experience {
+  position: inherit;
+  float: left;
+  width: 50%;
+}
+
 @keyframes width {
     0%, 100% {
         width: 160px;
