@@ -25,24 +25,3 @@ function scrollToId(whereToScroll) {
     }, 800);
     return true;
 }
-
-$(function() {
-    'use strict';
-    console.log("ready!");
-    var currentSection = "";
-
-    changeContentSectionTo("#about_me");
-
-    $('#nav-home, #nav-about, #nav-edex, #nav-skills, #nav-contact').click(function(event) {
-        var contentID = event.target.id.replace("menu-", "#");
-        changeContentSectionTo(contentID, 700);
-    });
-
-    function changeContentSectionTo(sectionName, animationDuration) {
-        if (currentSection !== sectionName) {
-            $("#content").children().hide();
-            $(sectionName).show(animationDuration ? animationDuration : 0, "linear");
-            currentSection = sectionName;
-        }
-    }
-});

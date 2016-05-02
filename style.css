@@ -176,7 +176,7 @@ tr td:last-child {
   color: #252839;
 }
 #fb{
-  position: absolute;
+  position: inherit;
   text-align: center;
 }
 #form {
