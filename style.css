@@ -158,7 +158,7 @@ tr td:last-child {
     font: 20px ;
     vertical-align: middle;
     background:#252839;
-    animation: 5s running;
+    animation: 5s ease-out;
 }
 
 #contact {
