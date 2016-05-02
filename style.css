@@ -146,10 +146,8 @@ tr td:last-child {
   float: left;
   width: 50%;
 }
-
 #language {
-  position: inherit;
-  float: right;
+  position: relative;
 }
 
 @keyframes width {
@@ -162,11 +160,11 @@ tr td:last-child {
 }
 .cssanime {
     width:300px;
-    height:20px;
+    height:25px;
     padding-left: 20px;
     margin: 20px 0;
     color: #e9ece5;
-    font: 20px ;
+    font: 25px ;
     vertical-align: middle;
     background:#252839;
     animation: width 10s reverse;
@@ -177,11 +175,11 @@ tr td:last-child {
 
 .css-anime {
     width:300px;
-    height:20px;
+    height:25px;
     padding-left: 20px;
     margin: 20px 0;
     color: #e9ece5;
-    font: 20px ;
+    font: 25px ;
     vertical-align: middle;
     background:#252839;
     animation: width 10s reverse;
