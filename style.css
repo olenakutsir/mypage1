@@ -211,5 +211,5 @@ footer {
     border-left: 0.2em solid black;
     border-top: 0.2em solid black;
     transform: rotate(45deg);
-    cursor: pointer;
+    cursor: crosshair;
 }
