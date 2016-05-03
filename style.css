@@ -57,11 +57,15 @@ header li {
     color: #e9ece5;
     font-weight: bold;
     font-weight: 200;
-    font-size: 17px;
+    font-size: 15px;
     clear: both;
+    margin: 5px;
 }
 
-
+header li a {
+    text-decoration: none;
+    color: #e9ece5;
+}
 
 header li a:hover {
     cursor: pointer;
