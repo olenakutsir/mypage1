@@ -1,4 +1,15 @@
 $(function() {
+    $('#hallo').fadeIn(3000, function() {
+        $(this).addClass('light');
+        setTimeout(function () {
+            $('#hallo').slideUp(3000);
+        }, 1000);
+    })
+})
+
+
+
+$(function() {
     $('#btn-send').click(function() {
         $.ajax({
             url: "https://formspree.io/olena.kutsir@gmail.com", 
@@ -25,3 +36,4 @@ function scrollToId(whereToScroll) {
     }, 800);
     return true;
 }
+
