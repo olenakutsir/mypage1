@@ -1,5 +1,5 @@
 $(function() {
-    $('#hallo').fadeIn(3000, function() {
+    $('#hallo h1').fadeIn(3000, function() {
         $(this).addClass('light');
         
     })
