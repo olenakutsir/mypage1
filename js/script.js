@@ -1,9 +1,7 @@
 $(function() {
     $('#hallo').fadeIn(3000, function() {
         $(this).addClass('light');
-        setTimeout(function () {
-            $('#hallo').slideUp(3000);
-        }, 1000);
+        
     })
 })
 
