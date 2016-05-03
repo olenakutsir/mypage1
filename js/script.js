@@ -1,5 +1,8 @@
 $(function() {
-    $('.hidden').fadeIn(3000) 
+    $('#hallo').fadeIn(2000) 
+})
+$(function() {
+    $('.hidden').fadeIn(4000) 
 })
 
 
