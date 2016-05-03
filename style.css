@@ -36,17 +36,7 @@ header img {
     height: 10px;
     color: #e9ece5;
 }
-#navi {
-  position: absolute; 
-    padding-bottom: 1%;
-    font-size: 15px;
-    font-weight: 200;
-    width: 75%;
-    top: 80px;
-    right: 0;
-    height: 10px;
-    color: #e9ece5;
-}
+
 header li {
     display: inline-block;
     text-transform: uppercase;
@@ -59,6 +49,18 @@ header li {
     font-weight: 200;
     font-size: 18px;
     clear: both;
+}
+
+header li a {
+    text-decoration: none;
+    color: black;
+}
+
+header li a:hover {
+    cursor: pointer;
+    border-bottom: solid 4px #03A89E;
+    text-decoration: none;
+    color: black;
 }
 #welcome {
   position: relative;
