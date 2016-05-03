@@ -50,7 +50,7 @@ header img {
 
 header li {
     display: inline-block;
-    text-transform: uppercase;
+    
     text-decoration: none;
     color: #e9ece5;
     font-weight: bold;
@@ -68,7 +68,7 @@ header li a {
 
 header li a:hover {
     cursor: pointer;
-    border-bottom: solid 3px #e9ece5;
+    border-bottom: solid 2px #e9ece5;
     text-decoration: none;
     color: #e9ece5;
 }
