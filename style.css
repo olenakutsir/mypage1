@@ -42,20 +42,18 @@ header img {
     font-size: 15px;
     font-weight: 200;
     width: 75%;
-    top: 80px;
+    top: 70px;
     right: 0;
     height: 10px;
     color: #e9ece5;
 }
 
 header li {
-    display: inline-table;
+    display: inline-block;
     text-transform: uppercase;
     text-decoration: none;
     color: #e9ece5;
     font-weight: bold;
-    
-    
     font-weight: 200;
     font-size: 17px;
     clear: both;
@@ -104,7 +102,7 @@ header li a:hover {
 }
 #about_me {
   position: relative;
-  height: 720px;
+  height: 710px;
   width: 1000px;
 }
 #me {
