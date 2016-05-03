@@ -5,8 +5,6 @@ $(function() {
     $('.hidden').fadeIn(4000) 
 })
 
-
-
 $(function() {
     $('#btn-send').click(function() {
         $.ajax({

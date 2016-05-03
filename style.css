@@ -47,6 +47,19 @@ header img {
     height: 10px;
     color: #e9ece5;
 }
+header li {
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-bottom: 3px solid white;
+    margin-right: 6%;
+    font-family: 'Bree Serif';
+    font-weight: 200;
+    font-size: 18px;
+    clear: both;
+}
 #welcome {
   position: relative;
   height: 519px;
