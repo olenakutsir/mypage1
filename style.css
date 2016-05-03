@@ -238,5 +238,6 @@ footer {
     border-top: 0.2em solid black;
     transform: rotate(45deg);
     cursor: pointer;
+    color: #677077;
 }
 
