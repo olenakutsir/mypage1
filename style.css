@@ -36,16 +36,26 @@ header img {
     height: 10px;
     color: #e9ece5;
 }
+#navi {
+  position: absolute; 
+    padding-bottom: 1%;
+    font-size: 15px;
+    font-weight: 200;
+    width: 75%;
+    top: 80px;
+    right: 0;
+    height: 10px;
+    color: #e9ece5;
+}
 
 header li {
     display: inline-block;
     text-transform: uppercase;
     text-decoration: none;
-    color: black;
+    color: #e9ece5;
     font-weight: bold;
     border-bottom: 3px solid white;
     margin-right: 6%;
-    font-family: 'Bree Serif';
     font-weight: 200;
     font-size: 18px;
     clear: both;
@@ -53,14 +63,14 @@ header li {
 
 header li a {
     text-decoration: none;
-    color: black;
+    color: #e9ece5;
 }
 
 header li a:hover {
     cursor: pointer;
-    border-bottom: solid 4px #03A89E;
+    border-bottom: solid 3px #e9ece5;
     text-decoration: none;
-    color: black;
+    color: #e9ece5;
 }
 #welcome {
   position: relative;
