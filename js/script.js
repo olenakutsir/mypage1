@@ -26,7 +26,12 @@ $(function() {
 })
 
 
-
+function scrollToId(whereToScroll) {
+    $('html, body').animate({
+        scrollTop: $(whereToScroll).offset().top
+    }, 800);
+    return true;
+}
 
 $(function () {
     // jQuery for page scrolling feature - requires jQuery Easing plugin
