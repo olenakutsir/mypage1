@@ -192,7 +192,7 @@ tr td:last-child {
     font: 20px ;
     vertical-align: middle;
     background:#252839;
-    animation: width 9s reverse;
+    animation: width 7s reverse;
 }
 #html {animation-timing-function: ease-in;}
 #css {animation-timing-function: ease-out;}
