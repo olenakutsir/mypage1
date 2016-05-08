@@ -3,6 +3,15 @@
     <head>
         <meta charset="utf-8">
         <title>Olena Kutsir</title>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+        
         <link rel="stylesheet" href="style.css"/>
     </head>
     <body>
@@ -47,9 +56,44 @@
                   I also like Photo and to experiment with it.
                   </p>
             </div>
-            <div id="rain">
-            <img src="raindrops.jpg" alt="raindrops on window glass">
-            </div>
+            
+            <section>
+               <p class="carousel">
+                    
+                    <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                        </ol>
+                         <div class="carousel-inner" role="listbox">
+                             <div class="item active">
+                                 <img img src="img/raindrops.jpg" alt="raindrops on window glass">
+                             </div>
+                             <div class="item">
+                                 <img src="img/pavement.jpg" alt="pavement">
+                             </div>
+                             <div class="item">
+                                 <img src="carousel/boy-amused.jpg"/>
+                             </div>
+                             <div class="item">
+                                 <img src="carousel/boy-hand.jpg"/>
+                             </div>
+                             
+                            <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                            </a>
+                            <a class="carousel-control right" href="#myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                            </a>
+                             
+                         </div>
+                    </div>
+                </p>
+                        
+            </section>
+            
         </article>
         
         <div class="arrow_up" onclick="scrollToId('#home');"></div>
