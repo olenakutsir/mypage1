@@ -229,11 +229,11 @@ tr td:last-child {
   color: #252839;
 }
 input {
-    width: 250px;
+    width: 300px;
     padding: 5px 5px;
     margin: 0px 1% 0 0; 
     display: inline-block;
-    background-color: #f6f1ed;
+    background-color: #e6e6e8;
     border: 1px solid black;
     border-radius: 1px;
     box-sizing: border-box;
@@ -245,7 +245,7 @@ textarea {
   height: 100px;
     margin: 0px 1% 0 0; 
     display: inline-block;
-    background-color: #f6f1ed;
+    background-color: #e6e6e8;
     border: 1px solid black;
     border-radius: 1px;
     box-sizing: border-box;
