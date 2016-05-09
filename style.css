@@ -117,7 +117,7 @@ header li a:hover {
 }
 #rain {
   height: 100%;
-    position: fixed;
+    position: absolute;
     margin-top: 1%;
     margin-bottom: 3%;
 }
