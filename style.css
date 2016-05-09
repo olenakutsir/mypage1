@@ -92,7 +92,7 @@ header li a:hover {
 #hallo img{
   position: absolute;
   width: 405px;
-  height: 180px;
+  height: 170px;
   top: 80px;
   right: 28%;
   padding: 20px;
@@ -114,6 +114,12 @@ header li a:hover {
   margin: 0;
   padding-bottom: 10px;
   padding-top: 10px;
+}
+#rain {
+  height: 100%;
+    position: fixed;
+    margin-top: 1%;
+    margin-bottom: 3%;
 }
 
 #education_experience {
