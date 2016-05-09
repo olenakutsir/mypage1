@@ -22,8 +22,7 @@ header {
 }
 header img {
   position: absolute;
-  width: 150px;
-  padding: 0 auto;
+  width: 200px;
   padding-left: 5%;
   padding-top: 20px;
   z-index: 0
