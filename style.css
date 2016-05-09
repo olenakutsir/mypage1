@@ -126,6 +126,7 @@ header li a:hover {
 
 
 .photo {
+  position: fixed;
   width: 150px;
   height: 150px;
 }
