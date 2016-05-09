@@ -218,7 +218,7 @@ tr td:last-child {
 #fb-icon img {
   width: 170px;
   height: 57px;
-  left: 40%;
+  display: inline;
   text-align: center;
   
 }
@@ -257,8 +257,8 @@ textarea {
 }
 
 footer {
-  top: 100px;
-  position: inherit;
+  top: 150px;
+  position: absolute;
   height: 50px;
   background-color: #252839;
   text-align: center;
