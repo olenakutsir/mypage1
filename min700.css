@@ -1,7 +1,7 @@
 @media only screen and (max-width: 701px) {
 
 * {
-  width: 600px;
+  width: 700px;
   margin: 0 auto;
   font-family: 'Droid Serif';
 }
@@ -11,7 +11,7 @@ body {
 }
 #container {
   position: relative;
-  width: 600px;
+  width: 700px;
   height: 3020px;
 }
 header {
@@ -83,7 +83,7 @@ header li a:hover {
 #welcome {
   position: relative;
   height: 500px;
-  width: 600px;
+  width: 700px;
   
 }
 #pavement {
@@ -111,7 +111,7 @@ header li a:hover {
 }
 #me {
   position: absolute;
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
   color: #252839;
   background-color: #e9ece5;
@@ -138,32 +138,32 @@ table {
   padding-top: 20px;
 }
 table th:first-child {
-  font-size: 25px;
+  font-size: 20px;
   text-align: right;
   color: #252839;
   padding-right: 5px;
 }
 table th:last-child {
-  font-size: 25px;
+  font-size: 20px;
   text-align: left;
   color: #252839;
   padding-left: 5px;
 }
 tr td:first-child {
-  font-size: 20px;
+  font-size: 17px;
   text-align: right;
   color: #252839;
   padding-right: 5%; 
 }
 tr td:last-child {
-  font-size: 20px;
+  font-size: 17px;
   text-align: left;
   color:#252839;
   padding-left: 5%;
      
 }
 #skills {
-  width: 600px;
+  width: 700px;
   height: 430px;
   background-color: #e9ece5;
   color: #252839;
