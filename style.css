@@ -224,9 +224,10 @@ tr td:last-child {
 }
 #form {
   position: absolute;
-  
+  text-align: center;
   padding-top: 3%;
   color: #252839;
+  display: inline;
 }
 input {
     width: 250px;
