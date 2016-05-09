@@ -164,13 +164,13 @@ tr td:first-child {
   font-size: 17px;
   text-align: right;
   color: #252839;
-  padding-right: 5%; 
+  padding-right: 5px; 
 }
 tr td:last-child {
   font-size: 17px;
   text-align: left;
   color:#252839;
-  padding-left: 5%;
+  padding-left: 5px;
      
 }
 #skills {
