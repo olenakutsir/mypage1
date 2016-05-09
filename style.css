@@ -5,12 +5,12 @@
 }
 body {
   background-color: #b3c2bf;
-  height: 3050px;
+  height: 3020px;
 }
 #container {
   position: relative;
   width: 1000px;
-  height: 3050px;
+  height: 3020px;
 }
 header {
   height: 200px;
