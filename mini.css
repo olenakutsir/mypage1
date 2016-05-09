@@ -1,3 +1,5 @@
+@media only screen and (max-width: 501px) {
+
 * {
   width: 500px;
   margin: 0 auto;
@@ -172,14 +174,6 @@ tr td:last-child {
 
 }
 
-@keyframes width {
-    0%, 100% {
-        width: 200px;
-    }
-    0%  {
-        width: 350px;
-    }
-}
 .cssanime {
     width:350px;
     height:25px;
@@ -284,3 +278,4 @@ hr {
   width: 998px;
 }
 
+}
