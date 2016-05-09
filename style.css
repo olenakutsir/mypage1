@@ -23,6 +23,7 @@ header {
 header img {
   position: absolute;
   width: 150px;
+  padding: 0;
   padding-left: 5%;
   padding-top: 20px;
   z-index: 0
