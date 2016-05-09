@@ -219,6 +219,7 @@ tr td:last-child {
   width: 170px;
   height: 57px;
   padding-left: 0;
+  text-align: center;
   
 }
 #form {
@@ -256,7 +257,7 @@ textarea {
 }
 
 footer {
-  top: 5px;
+  top: 100px;
   position: relative;
   height: 50px;
   background-color: #252839;
