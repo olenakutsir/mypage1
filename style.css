@@ -90,7 +90,7 @@ header li a:hover {
    opacity: 0.9;
 }
 #hallo img{
-  position: inherit;
+  position: absolute;
   width: 405px;
   height: 180px;
   top: 80px;
