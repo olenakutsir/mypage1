@@ -55,6 +55,8 @@ header ul {
 } 
 header li {
     display: inline;
+    padding-left: 5px;
+    margin-top: 5px;
     text-transform: uppercase;
     text-decoration: none;
     color: #e9ece5;
