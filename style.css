@@ -229,7 +229,7 @@ tr td:last-child {
   color: #252839;
 }
 #form label {
-  position: inherit;
+  position: absolute;
   text-align: left;
 }
 input {
