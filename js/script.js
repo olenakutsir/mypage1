@@ -18,10 +18,11 @@ $(function () {
 			},
 			dataType: "json"
 		}).done(function () {
-			alert('<h1>Thank you!</h1>');
+			
 			$("#firstname").val("");
 			$("#email").val("");
 			$("#msg").val("");
+			$('#form').html('<h1>Thank you!</h1>');
 		});
 		event.preventDefault();
 	});
