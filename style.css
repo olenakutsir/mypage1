@@ -115,7 +115,7 @@ header li a:hover {
   padding-bottom: 10px;
   padding-top: 10px;
 }
-#rain {
+#carousel {
   position: absolute;
   top: 30%;
   z-index: -1;
