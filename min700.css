@@ -82,7 +82,7 @@ header li a:hover {
 }
 #welcome {
   position: relative;
-  height: 500px;
+  height: 300px;
   width: 700px;
   
 }
@@ -106,8 +106,9 @@ header li a:hover {
 }
 #about_me {
   position: relative;
-  height: 670px;
-  width: 600px;
+  height: 600px;
+  width: 700px;
+  
 }
 #me {
   position: absolute;
