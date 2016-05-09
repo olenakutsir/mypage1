@@ -162,12 +162,12 @@ tr td:last-child {
      
 }
 #skills {
-  width: 980px;
+  width: 1000px;
   height: 430px;
   background-color: #e9ece5;
   color: #252839;
   font-size: 20px;
-  
+  left: 20px;
 }
 
 @keyframes width {
