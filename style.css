@@ -94,9 +94,9 @@ header li a:hover {
 #hallo img{
   position: absolute;
   width: 405px;
-  height: 180px;
+  height: 200px;
   top: 80px;
-  right: 28%;
+  right: 20%;
   padding: 20px;
 }
 .light {
