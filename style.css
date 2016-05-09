@@ -217,7 +217,7 @@ tr td:last-child {
 .fb {
   text-align: center;
 }
-.bounceInUp {
+#fb-icon img {
   width: 170px;
   height: 57px;
   padding-left: 41%;
