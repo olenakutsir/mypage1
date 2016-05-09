@@ -231,6 +231,7 @@ tr td:last-child {
 label {
   position: absolute;
   text-align: left;
+  display: inline;
 }
 input {
     width: 250px;
