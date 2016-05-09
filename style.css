@@ -5,12 +5,12 @@
 }
 body {
   background-color: #b3c2bf;
-  height: 3100px;
+  height: 3050px;
 }
 #container {
   position: relative;
   width: 1000px;
-  height: 3100px;
+  height: 3050px;
 }
 header {
   height: 200px;
@@ -93,8 +93,8 @@ header li a:hover {
 }
 #hallo img{
   position: absolute;
-  width: 405px;
-  height: 190px;
+  width: 450px;
+  height: 200px;
   top: 80px;
   right: 31%;
   padding: 20px;
