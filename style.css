@@ -258,7 +258,7 @@ textarea {
 
 footer {
   top: 150px;
-  position: absolute;
+  position: static;
   height: 50px;
   background-color: #252839;
   text-align: center;
