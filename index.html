@@ -5,7 +5,7 @@
         <title>Olena Kutsir</title>
         <link rel="stylesheet" href="animate.css">
         <link rel="stylesheet" href="style.css">
-        
+        <link rel="stylesheet" href="jquery.fancybox.css" type="text/css" media="screen" />
     </head>
     <body>
       <div id="container">
@@ -37,7 +37,7 @@
         </article>
         <hr>
         <article id="about_me">
-            <div id="me" class="wow fadeInLeft"  data-wow-delay="3s" data-wow-duration="1s">
+            <div id="me">
               <h2>About me</h2>
                 <br>
                   <p>My name is Olena and I'm a beginner front-end developer.<br> 
@@ -47,7 +47,24 @@
                   </p>
             </div>
             <div id="rain">
-            <img src="img/raindrops.jpg" alt="raindrops on window glass">
+            
+            <figure>
+					<a class="fancybox" data-fancybox-group="gallery1" href="img/bicycle.jpg">
+						<img class="photo" src="img/bicycle.jpg" alt="bicycle">
+					</a>
+					<a class="fancybox" data-fancybox-group="gallery1" href="img/dove.jpg">
+						<img class="photo" src="img/dove.jpg" alt="dove">
+					</a>
+					<a class="fancybox" data-fancybox-group="gallery1" href="img/raindrops2.jpg">
+						<img class="photo" src="img/raindrops2.jpg" alt="raindrops">
+					</a>
+					<a class="fancybox" data-fancybox-group="gallery1" href="img/yacht.jpg">
+						<img class="photo" src="img/yacht.jpg" alt="yacht">
+					</a>
+					
+				</figure>
+            
+            
             </div>
         </article>
         
@@ -141,7 +158,8 @@
             crossorigin="anonymous">
     </script>
     <script src="js/jquery.easing.min.js"></script>
-    <script src="js/wow.min.js"></script>
+    
+    <script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
     <script src="js/script.js"></script>
         
     </body>
