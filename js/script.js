@@ -1,9 +1,7 @@
 $(function() {
-    $('#hallo').fadeIn(1000) 
+    $('#hallo').fadeIn(4000) 
 })
-$(function() {
-    $('.hidden').fadeIn(4000) 
-})
+
 
 $(function() {
     $('#btn-send').click(function() {
