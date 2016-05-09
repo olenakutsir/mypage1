@@ -1,7 +1,7 @@
 @media only screen and (max-width: 601px) {
 
 * {
-  width: 500px;
+  width: 600px;
   margin: 0 auto;
   font-family: 'Droid Serif';
 }
@@ -11,7 +11,7 @@ body {
 }
 #container {
   position: relative;
-  width: 500px;
+  width: 600px;
   height: 3020px;
 }
 header {
@@ -83,7 +83,7 @@ header li a:hover {
 #welcome {
   position: relative;
   height: 500px;
-  width: 1000px;
+  width: 600px;
   
 }
 #pavement {
@@ -107,7 +107,7 @@ header li a:hover {
 #about_me {
   position: relative;
   height: 670px;
-  width: 500px;
+  width: 600px;
 }
 #me {
   position: absolute;
