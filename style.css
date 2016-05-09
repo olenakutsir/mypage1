@@ -230,7 +230,7 @@ tr td:last-child {
 }
 label {
   position: inherit;
-  
+  float: left;
   display: inline;
 }
 input {
