@@ -54,11 +54,11 @@ header ul {
   padding: 0;
 } 
 header li {
-    display: inline-block;
+    display: inline;
     text-transform: uppercase;
     text-decoration: none;
     color: #e9ece5;
-    font-weight: bold;
+    font-weight: bolder;
     font-weight: 200;
     font-size: 15px;
     clear: both;
