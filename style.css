@@ -128,7 +128,7 @@ header li a:hover {
 #education_experience {
   background-color: #e9ece5;
   height: 380px;
-  top: 10px;
+  padding-top: 10px;
   
 }
 table {
@@ -163,7 +163,7 @@ tr td:last-child {
 }
 #skills {
   width: 980px;
-  height: 400px;
+  height: 430px;
   background-color: #e9ece5;
   color: #252839;
   font-size: 20px;
