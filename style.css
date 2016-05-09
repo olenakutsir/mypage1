@@ -115,14 +115,7 @@ header li a:hover {
   padding-bottom: 10px;
   padding-top: 10px;
 }
-#rain {
-  position: absolute;
-  top: 30%;
-  z-index: -1;
-  height: 500px;
-  opacity: 0.9;
-  margin: 0;
-}
+
 
 .photo {
   width: 150px;
