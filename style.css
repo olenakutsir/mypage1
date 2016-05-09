@@ -225,6 +225,7 @@ tr td:last-child {
   position: absolute;
   text-align: center;
   padding-top: 3%;
+  margin-top: 5px;
   color: #252839;
 }
 input {
@@ -232,7 +233,7 @@ input {
     padding: 5px 5px;
     margin: 0px 1% 0 0; 
     display: inline-block;
-    background-color: #e9ece5;
+    background-color: #f2efe8;
     border: 1px solid black;
     border-radius: 1px;
     box-sizing: border-box;
@@ -244,7 +245,7 @@ textarea {
   height: 100px;
     margin: 0px 1% 0 0; 
     display: inline-block;
-    background-color: #e9ece5;
+    background-color: #f2efe8;
     border: 1px solid black;
     border-radius: 1px;
     box-sizing: border-box;
