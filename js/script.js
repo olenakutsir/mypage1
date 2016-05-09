@@ -18,7 +18,6 @@ $(function () {
 			},
 			dataType: "json"
 		}).done(function () {
-			
 			$("#firstname").val("");
 			$("#email").val("");
 			$("#msg").val("");
