@@ -91,16 +91,9 @@ header li a:hover {
 }
 #hallo {
   position: absolute;
-  font-size: 40px;
-  font-weight: 100;
-  width: 45%;
+  width: 400px;
   top: 80px;
   right: 28%;
-  height: 25%;
-  color: #5e0231;
-  border-radius: 30px;
-  background: #e9ece5;
-  box-shadow: 10px 10px 5px #677077;
   padding: 20px;
 }
 .light {
