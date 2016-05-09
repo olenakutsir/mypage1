@@ -235,8 +235,9 @@ input {
     font-size: 14px;
 }
 textarea {
-  width: 250px;
+  width: 270px;
   height: 100px;
+  float: right;
   text-align: justify;
 }
 
