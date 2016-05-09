@@ -233,7 +233,7 @@ input {
     padding: 5px 5px;
     margin: 0px 1% 0 0; 
     display: inline-block;
-    background-color: #f2efe8;
+    background-color: #f6f1ed;
     border: 1px solid black;
     border-radius: 1px;
     box-sizing: border-box;
@@ -245,7 +245,7 @@ textarea {
   height: 100px;
     margin: 0px 1% 0 0; 
     display: inline-block;
-    background-color: #f2efe8;
+    background-color: #f6f1ed;
     border: 1px solid black;
     border-radius: 1px;
     box-sizing: border-box;
