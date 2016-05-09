@@ -229,7 +229,7 @@ tr td:last-child {
   color: #252839;
 }
 input {
-    width: 300px;
+    width: 320px;
     padding: 5px 5px;
     margin: 0 0 0 0; 
     display: inline-block;
@@ -241,7 +241,7 @@ input {
 }
 
 textarea {
-  width: 300px;
+  width: 320px;
   height: 100px;
     margin: 0 0 0 0; 
     display: inline-block;
