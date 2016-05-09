@@ -114,23 +114,20 @@
                    <p><b>or send me a message</b></p>
                </div>
                <div id="form">  
-                  <form method="GET" action="/message">
-                     
-                        <label for="name">Name:</label>
-                        <br>
-                        <input id="name" type="name" required>
-                        <br>
-                        <label for="email">Email:</label>
-                        <br>
-                        <input type="email" id="email" required>
-                        <br>
-                        <label for="message">Message:</label>
-                        <br>
-                        <input type="message" id="message" required>
-                  </form>
-                  <button id="btn-send">
-                     Send
-                  </button>  
+                    <form id="contact">
+							<label for="firstname">Name: </label>
+							<input type="text" id="firstname" placeholder="Name" required>
+							<br>
+							<br>
+							<label for="email">Email: </label>
+							<input type="email" id="email" placeholder="Email" required>
+							<br>
+							<br>
+							<textarea name="message" id="msg" rows="5" cols="30" placeholder="Your message" required></textarea>
+							<br>
+							<br>
+							<input class="button" type="submit" id="send" value="Send message">
+					</form>
                   <div class="arrow_up" onclick="scrollToId('#home');"></div>   
                </div> 
          </article>   

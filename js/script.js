@@ -3,25 +3,29 @@ $(function() {
 })
 
 
-$(function() {
-    $('#btn-send').click(function() {
-        $.ajax({
-            url: "https://formspree.io/olena.kutsir@gmail.com", 
-            method: "POST",
-            data: {
-                name: name.value,
-                email: email.value,
-                message: message.value},
-            dataType: "json"
-        })
-        .done(function () {
-            $('#form').html('<h1>Thank you!</h1>');
-        })
-        .fail(function (jqXHR, textStatus) {
-            $('#form').html('<h1>Error!</h1><br>'+textStatus);
-        });
-    })
-})
+$(function () {
+	'use strict';
+	console.log("ready!");
+
+	$('#contact').submit(function (event) {
+		$.ajax({
+			url: "https://formspree.io/olena.kutsir@gmail.com",
+			method: "POST",
+			data: {
+				name: firstname.value,
+				email: email.value,
+				message: msg.value
+			},
+			dataType: "json"
+		}).done(function () {
+			alert('<h1>Thank you!</h1>');
+			$("#firstname").val("");
+			$("#email").val("");
+			$("#msg").val("");
+		});
+		event.preventDefault();
+	});
+});
 
 
 function scrollToId(whereToScroll) {
