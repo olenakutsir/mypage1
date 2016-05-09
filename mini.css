@@ -1,4 +1,4 @@
-@media only screen and (max-width: 601px) {
+@media only screen and (max-width: 701px) {
 
 * {
   width: 600px;
@@ -163,7 +163,7 @@ tr td:last-child {
      
 }
 #skills {
-  width: 500px;
+  width: 600px;
   height: 430px;
   background-color: #e9ece5;
   color: #252839;
