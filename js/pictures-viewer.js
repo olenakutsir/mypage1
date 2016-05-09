@@ -1,23 +1,6 @@
-$(document).ready(function() {
-
-	/* This is basic - uses default settings */
-	
-	$("a#photo").fancybox();
-	
-	/* Using custom settings */
-	
-	$("a#inline").fancybox({
-		'hideOnContentClick': true
+$(function() {
+	$(".fancybox").fancybox({
+		openEffect	: 'none',
+		closeEffect	: 'none'
 	});
-
-	/* Apply fancybox to multiple items */
-	
-	$("a.group").fancybox({
-		'transitionIn'	:	'elastic',
-		'transitionOut'	:	'elastic',
-		'speedIn'		:	600, 
-		'speedOut'		:	200, 
-		'overlayShow'	:	false
-	});
-	
 });
