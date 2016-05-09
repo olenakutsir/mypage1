@@ -222,12 +222,7 @@ tr td:last-child {
   text-align: center;
   
 }
-#form {
-  position: absolute;
-  text-align: center;
-  padding-top: 3%;
-  color: #252839;
-}
+
 label {
   position: inherit;
   float: left;
