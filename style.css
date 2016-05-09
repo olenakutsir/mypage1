@@ -90,8 +90,9 @@ header li a:hover {
    opacity: 0.9;
 }
 #hallo {
-  position: absolute;
-  width: 400px;
+  position: inherit;
+  width: 405px;
+  height: 180px;
   top: 80px;
   right: 28%;
   padding: 20px;
