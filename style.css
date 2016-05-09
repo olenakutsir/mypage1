@@ -203,8 +203,8 @@ tr td:last-child {
 
 #contact {
   position: absolute;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   color: #252839;
   font-size: 18px;
 }
@@ -218,16 +218,27 @@ tr td:last-child {
 #fb-icon img {
   width: 170px;
   height: 57px;
-  display: inline;
-  text-align: center;
+  padding-left: 41%;
   
 }
-
-label {
-  position: inherit;
-  float: left;
-  display: inline;
+#form {
+  position: absolute;
+  text-align: center;
+  padding-top: 3%;
+  color: #252839;
 }
+input {
+    width: 250px;
+    padding: 12px 20px;
+    margin: 0px 1% 0 0; 
+    display: inline-block;
+    background-color: #FCFCFC;
+    border: 1px solid black;
+    border-radius: 1px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
 input {
     width: 250px;
     padding: 12px 20px;
