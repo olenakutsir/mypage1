@@ -223,7 +223,11 @@ tr td:last-child {
   
 }
 #form {
-  position: absolute;
+  
+    width: 45%;
+    position: relative;
+    margin-right: 50px;
+  
   text-align: center;
   padding-top: 3%;
   color: #252839;
