@@ -168,7 +168,7 @@ tr td:last-child {
   color: #252839;
   font-size: 20px;
   left: 20px;
-  padding-top: 20px;
+  padding-top: 10px;
   padding-left: 20px;
 
 }
@@ -203,8 +203,8 @@ tr td:last-child {
 
 #contact {
   position: absolute;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   color: #252839;
   font-size: 18px;
 }
@@ -218,7 +218,7 @@ tr td:last-child {
 #fb-icon img {
   width: 170px;
   height: 57px;
-  padding-left: 41%;
+  padding-left: 0;
   
 }
 #form {
