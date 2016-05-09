@@ -228,7 +228,7 @@ tr td:last-child {
 }
 input {
     width: 250px;
-    padding: 12px 20px;
+    padding: 5px 5px;
     margin: 0px 1% 0 0; 
     display: inline-block;
     background-color: #FCFCFC;
@@ -238,17 +238,6 @@ input {
     font-size: 14px;
 }
 
-input {
-    width: 250px;
-    padding: 12px 20px;
-    margin: 0px 1% 0 0; 
-    display: inline-block;
-    background-color: #FCFCFC;
-    border: 1px solid black;
-    border-radius: 1px;
-    box-sizing: border-box;
-    font-size: 14px;
-}
 textarea {
   width: 300px;
   height: 100px;
