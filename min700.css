@@ -33,14 +33,17 @@ header img {
 #olenakutsir {
     position: absolute; 
     padding-bottom: 1%;
-    padding-left: 20px;
+    padding-left: 5px;
     font-size: 20px;
     font-weight: 200;
     width: 75%;
     top: 20px;
     right: 0;
-    height: 20px;
+    
     color: #e9ece5;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 15px;
 }
 #navi {
   position: absolute; 
