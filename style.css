@@ -100,6 +100,29 @@ header li a:hover {
 .light {
   color: #252839; 
 }
+#about_me {
+  
+  height: 670px;
+  width: 1000px;
+}
+#me {
+  position: absolute;
+  font-size: 25px;
+  text-align: center;
+  color: #252839;
+  background-color: #e9ece5;
+  margin: 0;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+#rain {
+  position: absolute;
+  top: 30%;
+  z-index: -1;
+  height: 500px;
+  opacity: 0.9;
+  margin: 0;
+}
 
 
 .photo {
