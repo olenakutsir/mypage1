@@ -224,6 +224,7 @@ tr td:last-child {
   color: #252839;
 }
 input {
+  float: left;
   width: 250px;
     padding: 12px 20px;
     margin: 0px 1% 0 0; 
