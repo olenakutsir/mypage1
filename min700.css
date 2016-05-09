@@ -57,10 +57,11 @@ header img {
     font-size: 15px;
     font-weight: 200;
     width: 75%;
-    top: 100px;
+    top: 70px;
     right: 0;
     height: 15px;
     color: #e9ece5;
+    margin-left: 15px;
 }
 header ul {
   padding: 0;
