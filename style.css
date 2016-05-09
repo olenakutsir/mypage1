@@ -218,7 +218,7 @@ tr td:last-child {
 #fb-icon img {
   width: 170px;
   height: 57px;
-  padding-left: 41%;
+  margin-left: 41%;
   
 }
 #form {
