@@ -10,7 +10,7 @@ body {
 #container {
   position: relative;
   width: 1000px;
-  height: 2885px;
+  height: 3000px;
 }
 header {
   height: 200px;
@@ -257,7 +257,7 @@ textarea {
 }
 
 footer {
-  top: 300px;
+  
   position: static;
   height: 50px;
   background-color: #252839;
