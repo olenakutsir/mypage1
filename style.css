@@ -224,8 +224,7 @@ tr td:last-child {
   color: #252839;
 }
 input {
-  float: left;
-  width: 250px;
+    width: 250px;
     padding: 12px 20px;
     margin: 0px 1% 0 0; 
     display: inline-block;
@@ -236,10 +235,16 @@ input {
     font-size: 14px;
 }
 textarea {
-  width: 270px;
+  width: 300px;
   height: 100px;
-  float: right;
   text-align: justify;
+  margin: 0px 1% 0 0; 
+    display: inline-block;
+    background-color: #FCFCFC;
+    border: 1px solid black;
+    border-radius: 1px;
+    box-sizing: border-box;
+    font-size: 14px;
 }
 
 #send {
