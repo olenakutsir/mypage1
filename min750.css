@@ -132,7 +132,7 @@ header li a:hover {
 }
 #carousel {
   position: absolute;
-  top: 37%;
+  top: 38%;
   z-index: -1;
   height: 500px;
   margin: 0;
