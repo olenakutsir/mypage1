@@ -5,12 +5,12 @@
 }
 body {
   background-color: #b3c2bf;
-  height: 3040px;
+  height: 3050px;
 }
 #container {
   position: relative;
   width: 1000px;
-  height: 3040px;
+  height: 3050px;
 }
 header {
   height: 200px;
@@ -104,7 +104,7 @@ header li a:hover {
 }
 #about_me {
   position: relative;
-  height: 730px;
+  height: 740px;
   width: 1000px;
 }
 #me {
@@ -119,7 +119,7 @@ header li a:hover {
 }
 #carousel {
   position: absolute;
-  top: 42%;
+  top: 40%;
   z-index: -1;
   height: 450px;
   margin: 0;
