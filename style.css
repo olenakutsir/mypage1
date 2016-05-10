@@ -104,7 +104,7 @@ header li a:hover {
 }
 #about_me {
   position: relative;
-  height: 670px;
+  height: 700px;
   width: 1000px;
 }
 #me {
@@ -121,7 +121,7 @@ header li a:hover {
   position: absolute;
   top: 45%;
   z-index: -1;
-  height: 456px;
+  height: 450px;
   margin: 0;
 }
 #education_experience {
