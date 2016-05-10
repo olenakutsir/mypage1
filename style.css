@@ -104,7 +104,7 @@ header li a:hover {
 }
 #about_me {
   position: relative;
-  height: 700px;
+  height: 720px;
   width: 1000px;
 }
 #me {
@@ -119,7 +119,7 @@ header li a:hover {
 }
 #carousel {
   position: absolute;
-  top: 45%;
+  top: 42%;
   z-index: -1;
   height: 450px;
   margin: 0;
