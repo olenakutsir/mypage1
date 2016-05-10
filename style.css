@@ -119,9 +119,9 @@ header li a:hover {
 }
 #carousel {
   position: absolute;
-  top: 30%;
+  top: 35%;
   z-index: -1;
-  height: 550px;
+  height: 456px;
   margin: 0;
 }
 #education_experience {
